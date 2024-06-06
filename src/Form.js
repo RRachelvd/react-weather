@@ -8,9 +8,9 @@ export default function Form() {
           type="search"
           required
           placeholder="Search for a city..."
-          class="search-input"
+          className="search-input"
         />
-        <input type="submit" value="Search" class="search-button" />
+        <input type="submit" value="Search" className="search-button" />
       </form>
     </div>
   );
