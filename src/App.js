@@ -18,11 +18,19 @@ export default function App() {
       <footer>
         <div>
           Coded by {` `}
-          <a href="https://github.com/RRachelvd" target="_blank">
+          <a
+            href="https://github.com/RRachelvd"
+            target="_blank"
+            rel="noreferrer"
+          >
             Rachèl van Dijkhorst
           </a>
           , open-sourced on {` `}
-          <a href="https://github.com/RRachelvd/my-weather-app" target="_blank">
+          <a
+            href="https://github.com/RRachelvd/my-weather-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Github
           </a>
           {` `}
@@ -30,6 +38,7 @@ export default function App() {
           <a
             href="https://weather-application-from-rachel.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
