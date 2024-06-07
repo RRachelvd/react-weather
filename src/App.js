@@ -27,7 +27,7 @@ export default function App() {
           </a>
           , open-sourced on {` `}
           <a
-            href="https://github.com/RRachelvd/my-weather-app"
+            href="https://github.com/RRachelvd/react-weather"
             target="_blank"
             rel="noreferrer"
           >
