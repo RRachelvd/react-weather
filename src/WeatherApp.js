@@ -10,10 +10,6 @@ export default function WeatherApp() {
     temperature: 18,
   };
 
-  let apiKey = "5f472b7acba333cd8a035ea85a0d4d4c";
-  let units = "metric";
-  let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=Leeuwarden&appid=${apiKey}&units=${units}`;
-
   return (
     <div className="WeatherApp">
       <div className="weather-info-left">
