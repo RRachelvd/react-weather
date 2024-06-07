@@ -36,7 +36,7 @@ export default function App() {
           {` `}
           and hosted on {` `}
           <a
-            href="https://weather-application-from-rachel.netlify.app/"
+            href="https://willitrainornot.netlify.app"
             target="_blank"
             rel="noreferrer"
           >
